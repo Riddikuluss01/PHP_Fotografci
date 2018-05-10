@@ -1,0 +1,2 @@
+localhostta mail gönderme iþlemi çalýþmýyor. Mail iþlemleri site hosta yüklendiði zaman yapýlacak.
+emrah yüksel php form oluþturma (51. video)
